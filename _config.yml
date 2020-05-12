@@ -1,6 +1,8 @@
 sass:
   style: compressed
 
+remote_theme: showzeng/Minimalism
+
 defaults:
   -
     scope:
@@ -34,3 +36,5 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
+  
+  
