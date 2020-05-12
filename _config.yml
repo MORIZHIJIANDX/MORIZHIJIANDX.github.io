@@ -16,12 +16,14 @@ defaults:
     values:
       image: true
 
-title: Minimalism
-name: minimalism
-description: Minimalism is a jekyll theme for minimalist
+title: Infinity Render
+name: Infinity Render
+# description: Minimalism is a jekyll theme for minimalist
 
-github: https://github.com/showzeng/Minimalism
-rss: true
+show_excerpt: true
+
+github: https://github.com/MORIZHIJIANDX
+rss: false
 
 plugins:
   - rouge
